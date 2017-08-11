@@ -29,7 +29,26 @@ Sala DCM Plaza de la investigación
 ----
 > ### Contenidos
 
-
+>#### Módulo 1
 Fecha | Nombre | Contenidos| Materiales
 ------|--------|-----------|-----------
-11 Agosto|Introducción|¿Qué es Bioinformática? **\|** Introducción a Unix|[\[reading\]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4408859/pdf/fgene-06-00164.pdf) **\|** [\[blank\]]()
+11 Agosto|Introducción|¿Qué es Bioinformática? **\|** Bases de datos|[\[reading\]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4408859/pdf/fgene-06-00164.pdf) **\|** [\[blank\]]()
+18 Agosto|Análisis de expresión I|GEO **\|** Microarrays|[\[reading\]]() **\|** [\[blank\]]()
+25 Agosto|Análisis de expresión II|SRA **\|** RNA-seq|[\[reading\]]() **\|** [\[blank\]]()
+01 Septiembre|Análisis de expresión III| Pathway analysis **\|** Gene Set Enrichment |[\[reading\]]() **\|** [\[blank\]]()
+
+>#### Módulo 2
+Fecha | Nombre | Contenidos| Materiales
+------|--------|-----------|-----------
+29 Septiembre|Presentación 1 **\|** Análisis de variantes I|dbSNP **\|** Microarrays|[\[reading\]]() **\|** [\[blank\]]()
+06 Octubre|Análisis de variantes II|SRA **\|** WXS,WGS|[\[reading\]]() **\|** [\[blank\]]()
+13 Octubre|Análisis de variantes III|NCBI **\|** Asociación|[\[reading\]]() **\|** [\[blank\]]()
+20 Octubre|Análisis de variantes IV|NCBI **\|** Anotación clínica|[\[reading\]]() **\|** [\[blank\]]()
+
+>#### Módulo 3
+Fecha | Nombre | Contenidos| Materiales
+------|--------|-----------|-----------
+03 Noviembre|Presentación 2 **\|** Biología de poblaciones|Ancestría global **\|** Ancestría local|[\[reading\]]() **\|** [\[blank\]]()
+10 Noviembre|Biología de poblaciones|GWAS y ancestría|[\[reading\]]() **\|** [\[blank\]]()
+17 Noviembre|Epigenética I|ChIP-seq |[\[reading\]]() **\|** [\[blank\]]()
+24 Noviembre|Epigenética II|Methyl-Seq |[\[reading\]]() **\|** [\[blank\]]()
