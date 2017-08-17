@@ -33,7 +33,7 @@ Sala DCM Plaza de la investigación
 Fecha | Nombre | Contenidos| Materiales
 ------|--------|-----------|-----------
 11 Agosto|Introducción|¿Qué es Bioinformática? **\|** Bases de datos|[\[reading\]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4408859/pdf/fgene-06-00164.pdf) **\|** [\[blank\]]()
-18 Agosto|Análisis de expresión I|GEO **\|** Microarrays **\|** GSE84331|[\[reading\]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5126381/pdf/zjv11259.pdf) **\|** [\[data\]](https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE84331&format=file)
+18 Agosto|Análisis de expresión I|GEO **\|** Microarrays **\|** [GSE84331](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE84331)|[\[reading\]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5126381/pdf/zjv11259.pdf) **\|** [\[data\]](https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE84331&format=file)
 25 Agosto|Análisis de expresión II|SRA **\|** RNA-seq|[\[reading\]]() **\|** [\[blank\]]()
 01 Septiembre|Análisis de expresión III| Pathway analysis **\|** Gene Set Enrichment |[\[reading\]]() **\|** [\[blank\]]()
 
